@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/tunefree_docs/",
+  base: "/",
 
   lang: "zh-CN",
   title: "TuneFree",
