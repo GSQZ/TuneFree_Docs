@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/blue-3d.png",
 
-  repo: "https://github.com/GSQZ/TuneFree",
+  repo: "https://github.com/GSQZ/TuneFree_Docs",
 
   docsDir: "src",
 
