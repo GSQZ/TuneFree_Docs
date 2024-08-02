@@ -1,0 +1,21 @@
+{
+  "name": "tunefree_docs",
+  "description": "TuneFree docs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-webpack build src",
+    "docs:clean-dev": "vuepress-webpack dev src --clean-cache",
+    "docs:dev": "vuepress-webpack dev src",
+    "docs:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-webpack": "2.0.0-rc.14",
+    "sass-loader": "^14.2.1",
+    "vue": "^3.4.31",
+    "vuepress": "2.0.0-rc.14",
+    "vuepress-plugin-search-pro": "^2.0.0-rc.52",
+    "vuepress-theme-hope": "2.0.0-rc.52"
+  }
+}
