@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://csm.sayqz.com/tunefree_docs/sitemap.xml
