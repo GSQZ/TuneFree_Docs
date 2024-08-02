@@ -318,7 +318,7 @@ h2:hover .vp-catalog-header-anchor, h3:hover .vp-catalog-header-anchor {
 
 :root {
   --back-to-top-z-index: 5;
-  --back-to-top-icon: url(/tunefree_docs/assets/img/back-to-top.00dcb9fa.svg);
+  --back-to-top-icon: url(/assets/img/back-to-top.00dcb9fa.svg);
   --back-to-top-bg-color: #fff;
   --back-to-top-color: #3eaf7c;
   --back-to-top-icon-color: currentcolor;
