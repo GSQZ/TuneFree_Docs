@@ -26,9 +26,9 @@ features:
     details: 无需频繁切换音乐平台，TuneFree可以检索到大部分您所需的音乐资源！
     link: /
 
-  - title: 完美免费
+  - title: 完全公益
     icon: sack-dollar
-    details: 无任何广告、收费计划，您可以任意在TuneFree内播放音乐，不会受到任何限制！
+    details: 无任何广告、盈利计划，申请白名单后，您可以任意在TuneFree内播放音乐，不会受到任何限制！
     link: /
 
   - title: 长久维护
