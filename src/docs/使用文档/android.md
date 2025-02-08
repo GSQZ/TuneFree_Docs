@@ -59,12 +59,12 @@ tag:
 ## 🌩️ 下载
 俩种下载方式  
 第一种，请`添加官方频道https://pd.qq.com/s/fylbrjbly`下载。  
-第二种，请[`打开TuneFree发布通道`](https://csm.sayqz.com/api/version/?device=android&url=true)下载。
+第二种，请[`打开TuneFree发布通道`](https://pan.sayqz.com/%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90/TuneFree/Android%E5%AE%89%E8%A3%85%E5%8C%85)下载。
 
 ## ❓ 常见问题
 ::: details 播放音乐提示非白名单用户
 ::: tip 😇 A
-为了防止本项目被滥用，所以开设了白名单这么个东西，所有的用户必须先通过白名单验证才可以正常使用TuneFree。如何绑定白名单？请先加入官方QQ群`789188682 `，进群后打开网页`https://csm.sayqz.com/op`根据提示完成操作即可。
+为了防止本项目被滥用，所以开设了白名单这么个东西，所有的用户必须先通过白名单验证才可以正常使用TuneFree。如何绑定白名单？请先加入官方频道群`https://pd.qq.com/s/fylbrjbly`，进入频道后根据提示完成操作即可。
 :::
 
 ::: details 验证码登录用不了

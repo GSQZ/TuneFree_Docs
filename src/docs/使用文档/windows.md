@@ -70,7 +70,7 @@ tag:
 ## 🌩️ 下载
 俩种下载方式  
 第一种，请`添加官方频道https://pd.qq.com/s/fylbrjbly`下载。  
-第二种，请[`打开TuneFree发布通道`](https://csm.sayqz.com/api/version/?device=windows&url=true)下载。
+第二种，请[`打开TuneFree发布通道`](https://pan.sayqz.com/%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90/TuneFree/Windows%E5%AE%89%E8%A3%85%E5%8C%85)下载。
 
 ## ⌨️ 快捷键指南
 > 全局快捷键  
@@ -105,7 +105,7 @@ tag:
 ## 📦 部署
 关于自行部署的问题请移步Github查看。  
 
-[![TuneFree Github](https://github-readme-stats.vercel.app/api/pin/?username=GSQZ&repo=TuneFree&theme=vue)](https://github.com/GSQZ/TuneFree)
+[![TuneFree Github](https://socialify.git.ci/GSQZ/TuneFree/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Dark)](https://github.com/GSQZ/TuneFree)
 
 ## 📜 开源许可
 
