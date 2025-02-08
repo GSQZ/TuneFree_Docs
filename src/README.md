@@ -50,7 +50,7 @@ features:
 
 近期，我们注意到一些未经授权的行为，涉及在各种平台上传播 TuneFree。为了确保软件的正常发展和用户的权益，我们特此发表声明。
  
-TuneFree 是一款基于开源项目 SPlayer 开发的音乐播放器，我们拥有自己的官方网站（https://csm.sayqz.com/）和官方 QQ 群。用户可以在官网上下载 TuneFree，包括 Windows 端和独立的 Android 端。
+TuneFree 是一款基于开源项目 SPlayer 开发的音乐播放器，我们拥有自己的官方网站（https://tunefree.fun/）和官方 QQ 群。用户可以在官网上下载 TuneFree，包括 Windows 端和独立的 Android 端。
  
 在此强调，任何套壳网页端并打包成 Android 应用的行为都是盗版，存在用户信息泄露的风险。这种行为不仅严重影响了软件的发展，也可能对用户的个人信息安全造成威胁。
  
