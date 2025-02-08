@@ -8,7 +8,6 @@ tag:
   - 教程
   - 白名单
 ---
-![TuneFree for Windows](https://csm.sayqz.com/api/version/?device=windows) ![TuneFree for Windows](https://csm.sayqz.com/api/version/?device=android)
 ::: tip  提示
 本软件`完全免费`，若你是付费获得，恭喜你被骗了！如果你也想售卖TuneFree，请阅读[`如何售卖TuneFree`](https://cn.bing.com/search?q=%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%80%8E%E4%B9%88%E5%8A%9E)
 :::
@@ -32,8 +31,8 @@ TuneFree Windows端以及Android端分别基于[SPlayer](https://github.com/imsy
 
 #### 🌩️ 接下来是获取方式
 ::: tip  马嘉祺超绝肌肉线条助君一臂之力💪
-非苹果手机请点击右侧链接下载 [`TuneFree for Android`](https://csm.sayqz.com/api/version/?device=android&url=true)  
-Windows电脑请点击右侧链接下载 [`TuneFree for Windows`](https://csm.sayqz.com/api/version/?device=windows&url=true)   
+非苹果手机请点击右侧链接下载 [`TuneFree for Android`](https://pan.sayqz.com/%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90/TuneFree/Android%E5%AE%89%E8%A3%85%E5%8C%85)  
+Windows电脑请点击右侧链接下载 [`TuneFree for Windows`](https://pan.sayqz.com/%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90/TuneFree/Windows%E5%AE%89%E8%A3%85%E5%8C%85)   
 无法使用Windows端和Android端的用户请点击右侧链接使用Web版 [`TuneFree for Web`](https://pt.sayqz.com) 
 :::
 
