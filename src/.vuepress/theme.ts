@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://csm.sayqz.com",
+  hostname: "https://tunefree.fun",
 
   author: {
     name: "是青旨啊🌴",
