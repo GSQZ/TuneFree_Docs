@@ -42,6 +42,63 @@ tag:
 | email | string | 是 | QQ邮箱（格式：数字@qq.com） |
 | code | string | 是 | 邮箱验证码 |
 
+**调用示例：**
+
+::: code-tabs
+@tab Python
+```python
+import requests
+
+def register_user(cookie, email, code):
+    url = "https://auth.sayqz.com/"
+    params = {
+        "path": "register",
+        "cookie": cookie,
+        "email": email,
+        "code": code
+    }
+    response = requests.get(url, params=params)
+    return response.json()
+```
+
+@tab JavaScript
+```javascript
+async function registerUser(cookie, email, code) {
+    const url = new URL('https://auth.sayqz.com/');
+    url.searchParams.append('path', 'register');
+    url.searchParams.append('cookie', cookie);
+    url.searchParams.append('email', email);
+    url.searchParams.append('code', code);
+    
+    const response = await fetch(url.toString());
+    return await response.json();
+}
+```
+
+@tab Java
+```java
+public class TuneFreeApi {
+    public static JSONObject registerUser(String cookie, String email, String code) {
+        String url = String.format(
+            "https://auth.sayqz.com/?path=register&cookie=%s&email=%s&code=%s",
+            URLEncoder.encode(cookie),
+            URLEncoder.encode(email),
+            URLEncoder.encode(code)
+        );
+        
+        return HttpClient.newHttpClient()
+            .sendAsync(HttpRequest.newBuilder(URI.create(url))
+                .GET()
+                .build(),
+                HttpResponse.BodyHandlers.ofString())
+            .thenApply(HttpResponse::body)
+            .thenApply(JSONObject::new)
+            .join();
+    }
+}
+```
+:::
+
 **返回示例：**
 ```json
 {
