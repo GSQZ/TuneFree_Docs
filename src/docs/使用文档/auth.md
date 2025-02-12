@@ -26,6 +26,7 @@ tag:
 ### 第 1 步：下载用户中心
 ```bash
 下载地址：https://pan.sayqz.com/d/公共资源/TuneFree/TF用户中心.apk
+或使用网页版：https://auth.sayqz.com/
 系统要求：Android 7.0+
 安装条件：无需 root
 ```
